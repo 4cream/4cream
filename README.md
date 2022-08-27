@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @4cream
 - 👀 I’m interested in Javascript, Node JS
 - 🌱 I’m currently learning React, Angular
-- 💞️ I’m looking to collaborate on Frontendo projects
+- 💞️ I’m looking to collaborate on Frontend projects
 - 📫 How to reach me ...
 
 <!---
