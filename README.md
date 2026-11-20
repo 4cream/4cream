@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @4cream
-- 👀 I’m interested in Javascript, Node JS
-- 🌱 I’m currently learning React, Angular
-- 💞️ I’m looking to collaborate on Frontend projects
-- 📫 How to reach me ...
+# Hi there 👋
 
-<!---
-4cream/4cream is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Frontend developer and Computer Science & Information Security student.
+
+- 💻 I build fast, accessible web interfaces with React, Next.js, and TypeScript.
+- 🤖 Lately I build AI automations: chat and voice agents connected to e-commerce, using n8n and Retell AI.
+- 🔐 Studying information security and learning Python.
+- 🎨 Background in graphic and UI/UX design.
+
+**Tech:** JavaScript · TypeScript · React · Next.js · Angular · Tailwind CSS · n8n · Figma
